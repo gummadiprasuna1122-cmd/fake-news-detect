@@ -1,0 +1,11 @@
+streamlit
+newsapi-python
+textblob
+scikit-learn
+numpy
+pandas
+nltk
+shap
+matplotlib
+scipy
+requests
